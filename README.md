@@ -49,9 +49,9 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 
 ## 📂 Project Terkait
 Sebelum fokus pada pendalaman fundamental ini, saya juga telah mengerjakan proyek berbasis C# lainnya:
-* **[Forrindo - Light Mesmerize](https://github.com/Kyuuuzo/Forrindo-Repo-Link)**: Proyek lokalisasi dan modifikasi *logic* untuk game Stardew Valley menggunakan SMAPI.
+* **[Forrindo - Light Mesmerize](https://github.com/Kyuuuzo/ForrindoLM)**: Proyek lokalisasi dan modifikasi *logic* untuk game Stardew Valley menggunakan SMAPI.
 
 ---
-> **"Programming is not just about what you know; it's about how you solve problems systematically."**
 
-Dibuat dengan ☕ oleh [Kyuuuzo]
+> **"The beauty of writing code lies in watching it manifest into various forms of creation."**
+Dibuat oleh Kyuuuzo

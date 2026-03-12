@@ -6,14 +6,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📖 Tentang Repository Ini
-Repository ini adalah jurnal digital yang mendokumentasikan perjalanan saya dalam mendalami bahasa pemrograman **C#**. Fokus utama saya bukan sekadar menulis kode yang "jalan", melainkan memahami **struktur data, efisiensi algoritma,** dan **prinsip pemrograman berorientasi objek (OOP)**.
+Repository ini adalah jurnal digital yang mendokumentasikan perjalanan saya dalam mendalami **C#**. Sebagai lulusan baru yang bersiap melangkah ke jenjang pendidikan tinggi, saya berkomitmen untuk membangun fondasi teknis yang kuat sebelum memasuki dunia akademis yang lebih luas.
 
-Proyek ini merupakan bagian dari persiapan saya menuju jenjang pendidikan **S2 (Pascasarjana)**, di mana saya berkomitmen untuk memperkuat fondasi teknis dan logika pemrograman secara sistematis.
+Fokus utama saya adalah memahami **struktur data, efisiensi algoritma,** dan **prinsip pemrograman berorientasi objek (OOP)** secara otodidak. Repository ini adalah bukti disiplin saya dalam mempersiapkan diri menjadi seorang *Software Engineer* dan peneliti di masa depan.
 
 ---
 
 ## 🏗️ Struktur Kurikulum Mandiri
-Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan modul berikut:
+Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan modul-modul berikut:
 
 ### 🟢 Phase 1: Syntax & Logic (Fundamentals)
 - [x] Variabel, Tipe Data, & Operator
@@ -35,7 +35,7 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 ## 📈 Log Perkembangan Harian
 | Hari | Modul | Topik Latihan | Catatan / Hasil |
 | :--- | :--- | :--- | :--- |
-| 1 | `01-Basics` | Input/Output & Variable | Menguasai manipulasi tipe data dasar di console. |
+| 1 | `01-Logic-And-Operators` | Logical Operators & Modulus | Memahami gerbang logika |
 
 ---
 

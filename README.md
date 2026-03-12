@@ -54,4 +54,4 @@ Sebelum fokus pada pendalaman fundamental ini, saya juga telah mengerjakan proye
 ---
 
 > **"The beauty of writing code lies in watching it manifest into various forms of creation."**
-Dibuat oleh Kyuuuzo
+> Dibuat oleh Kyuuuzo

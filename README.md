@@ -17,7 +17,7 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 
 ### 🟢 Phase 1: Syntax & Logic (Fundamentals)
 - [x] Variabel, Tipe Data, & Operator
-- [ ] Control Flow (If-Else, Switch, Loops)
+- [x] Control Flow (If-Else, Switch, Loops)
 - [ ] Error Handling (Try-Catch)
 
 ### 🔵 Phase 2: Data Management
@@ -36,6 +36,7 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 | Hari | Modul | Topik Latihan | Catatan / Hasil |
 | :--- | :--- | :--- | :--- |
 | 1 | `01-Logic-And-Operators` | Logical Operators & Modulus | Memahami gerbang logika |
+| 2 | '02-Loops-And-Conditionals' | Mengenap Alur Kontrol & Pengulangan | Membuat Mini-RPG |
 
 ---
 

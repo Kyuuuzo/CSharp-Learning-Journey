@@ -36,7 +36,7 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 | Hari | Modul | Topik Latihan | Catatan / Hasil |
 | :--- | :--- | :--- | :--- |
 | 1 | `01-Logic-And-Operators` | Logical Operators & Modulus | Memahami gerbang logika |
-| 2 | `02-Loops-And-Conditionals` | Mengenap Alur Kontrol & Pengulangan | Membuat Mini-RPG |
+| 2 | `02-Loops-And-Conditionals` | Mengatur Alur Kontrol & Pengulangan | Membuat Mini-RPG |
 
 ---
 

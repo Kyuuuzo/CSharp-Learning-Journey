@@ -1,4 +1,4 @@
-﻿/*
+/*
  * =======================================================================
  * PROJECT  : CSharp-Learning-Journey
  * TOPIC    : Logicals & Modulus Operators
@@ -31,9 +31,17 @@ class Program
         Console.WriteLine($"Jumlah koin yang dimiliki: {jumlahKoin}");
         Console.WriteLine($"Termasuk: {sisaPerak} Perak, {sisaSilver} Silver dan {koinPlatinum} Platinum");
 
-        int hargaKuda = 380000;
+        int hargaKuda = 38000;
         bool apaCukup = koinPerak >= hargaKuda;
         bool apaKeberatan = jumlahKoin > kapasitasKoin;
+
+        int sisaKoin = koinPerak - hargaKuda;
+        int koinPerakBaru = sisaKoin;
+
+        int sisaKoinPerakBaru = koinPerakBaru % 120;
+        int koinSilverBaru = koinPerakBaru / 120;
+        int sisaKoinSilverBaru = koinSilverBaru % 15;
+        int koinPlatinumBaru = koinSilverBaru / 15;
 
         if (apaCukup && apaKeberatan)
         {
@@ -42,12 +50,10 @@ class Program
         else if (apaCukup && !apaKeberatan)
         {
             Console.WriteLine("Kuda berhasil dibeli!");
-            int sisaKoin = koinPerak - hargaKuda;
-            int koinPerakBaru = sisaKoin;
-            int sisaKoinPerakBaru = koinPerakBaru % 120;
-            int koinSilverBaru = koinPerakBaru / 120;
-            int sisaKoinSilverBaru = koinSilverBaru % 15;
-            int koinPlatinumBaru = koinSilverBaru / 15; 
+        }
+        else
+        {
+            Console.WriteLine("Kamu tidak memenuhi syarat!");
         }
         return;
     }

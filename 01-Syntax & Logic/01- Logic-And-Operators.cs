@@ -2,7 +2,7 @@
  * =======================================================================
  * PROJECT  : CSharp-Learning-Journey
  * TOPIC    : Logicals & Modulus Operators
- * MODULE   : 01-Basics
+ * MODULE   : 01-Syntax & Logic
  * AUTHOR   : Kyuuuzo
  * DATE     : 12 Maret 2026
  * * DESCRIPTION:
@@ -58,3 +58,4 @@ class Program
         return;
     }
 }
+

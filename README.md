@@ -18,10 +18,10 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 ### 🟢 Phase 1: Syntax & Logic (Fundamentals)
 - [x] Variabel, Tipe Data, & Operator
 - [x] Control Flow (If-Else, Switch, Loops)
-- [ ] Error Handling (Try-Catch)
+- [ ] Arrays & Lists (Collection Handling)
 
 ### 🔵 Phase 2: Data Management
-- [ ] Arrays & Lists (Collection Handling)
+- [ ] Error Handling (Try-Catch)
 - [ ] String Manipulation
 - [ ] File I/O (Read/Write Data)
 

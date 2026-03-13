@@ -2,7 +2,7 @@
  * =======================================================================
  * PROJECT  : CSharp-Learning-Journey
  * TOPIC    : Control Flow (Loops, Switch-Case, & Conditionals)
- * MODULE   : 02-Control-Flow
+ * MODULE   : 01-Syntax & Logic
  * AUTHOR   : Kyuuuzo
  * DATE     : 13 Maret 2026
  * * DESCRIPTION:
@@ -86,4 +86,5 @@ class Program
 
         Console.WriteLine("\nPermainan Selesai.");
     }
+
 }

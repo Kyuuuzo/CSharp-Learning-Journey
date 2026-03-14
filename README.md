@@ -18,7 +18,8 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 ### 🟢 Phase 1: Syntax & Logic (Fundamentals)
 - [x] Variabel, Tipe Data, & Operator
 - [x] Control Flow (If-Else, Switch, Loops)
-- [ ] Arrays & Lists (Collection Handling)
+- [x] Arrays & Lists (Collection Handling)
+- [ ] Methods & Functional Logic
 
 ### 🔵 Phase 2: Data Management
 - [ ] Error Handling (Try-Catch)
@@ -38,6 +39,7 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 | 1 | `01-Logic-And-Operators` | Logical Operators & Modulus | Memahami gerbang logika |
 | 2 | `02-Loops-And-Conditionals` | Mengatur Alur Kontrol & Pengulangan | Membuat Mini-RPG |
 | 3 | `03-Control-Flow-Consolidation` | Pemantapan Alur Kontrol & Penggunaan Array Sederhana | Membuat Mining Tycoon |
+| 4 | `04-Dynamic-Collections` | Penggunaan List Pada Penyimpanan Yang Bersifat Dinamis | Membuat Sistem Tas | 
 
 ---
 

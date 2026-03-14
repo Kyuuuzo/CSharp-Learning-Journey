@@ -37,6 +37,7 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 | :--- | :--- | :--- | :--- |
 | 1 | `01-Logic-And-Operators` | Logical Operators & Modulus | Memahami gerbang logika |
 | 2 | `02-Loops-And-Conditionals` | Mengatur Alur Kontrol & Pengulangan | Membuat Mini-RPG |
+| 3 | `03-Control-Flow-Consolidation` | Pemantapan Alur Kontrol & Penggunaan Array Sederhana | Membuat Mining Tycoon |
 
 ---
 

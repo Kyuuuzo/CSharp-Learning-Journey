@@ -19,7 +19,7 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 - [x] Variabel, Tipe Data, & Operator
 - [x] Control Flow (If-Else, Switch, Loops)
 - [x] Arrays & Lists (Collection Handling)
-- [ ] Methods & Functional Logic
+- [x] Methods & Functional Logic
 
 ### 🔵 Phase 2: Data Management
 - [ ] Error Handling (Try-Catch)

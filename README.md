@@ -36,10 +36,12 @@ Untuk memastikan pembelajaran yang komprehensif, latihan disusun berdasarkan mod
 ## 📈 Log Perkembangan Harian
 | Hari | Modul | Topik Latihan | Catatan / Hasil |
 | :--- | :--- | :--- | :--- |
-| 1 | `01-Logic-And-Operators` | Logical Operators & Modulus | Memahami gerbang logika |
-| 2 | `02-Loops-And-Conditionals` | Mengatur Alur Kontrol & Pengulangan | Membuat Mini-RPG |
+| ... | ... | ... | ... |
 | 3 | `03-Control-Flow-Consolidation` | Pemantapan Alur Kontrol & Penggunaan Array Sederhana | Membuat Mining Tycoon |
-| 4 | `04-Dynamic-Collections` | Penggunaan List Pada Penyimpanan Yang Bersifat Dinamis | Membuat Sistem Tas | 
+| 4 | `04-Dynamic-Collections` | Penggunaan List Pada Penyimpanan Yang Bersifat Dinamis | Membuat Sistem Tas |
+| 5 | `05-Procedural- Decomposition-&-Logic-Reusability` | Pemecahan Alur Menjadi Modular Methods | Simulasi Simpan Nama |
+
+> 📂 **Histori Lengkap:** [Lihat semua log perkembangan di sini](https://github.com/Kyuuuzo/CSharp-Learning-Journey/tree/main/01-Syntax%20%26%20Logic)
 
 ---
 
